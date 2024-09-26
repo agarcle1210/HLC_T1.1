@@ -1,2 +1,2 @@
-git clone
+ruben castro
 git checkout -b
