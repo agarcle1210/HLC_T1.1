@@ -1,2 +1,2 @@
-git clone
+viva el betis
 git checkout -b
